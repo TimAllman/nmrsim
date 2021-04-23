@@ -1,0 +1,22 @@
+$Id: Notes.txt,v 1.1 2005/06/02 12:26:20 tallman Exp $
+
+fid.003.in
+
+0.001
+0.0
+2.5000  250.0000  -10.0000  0.0000
+1.5000  150.0000  -10.0000  0.0000
+0.1000  -100.0000  -10.0000  0.0000
+0.2000  -200.0000  -10.0000  0.0000
+
+Read correctly as ampl, freq(Hz), damping and phase.
+
+In natural units:
+2.5    1570.79   -10.0 0.0
+1.5     942.48   -10.0 0.0
+0.1    -628.32   -10.0 0.0
+0.2   -1256.64   -10.0 0.0
+
+2021/04/22
+Start rehabilitation of this project using Eigen-3
+
